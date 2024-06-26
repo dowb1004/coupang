@@ -8,7 +8,9 @@
 3. 카테고리
 
 <이혜진 <hylee97@empal.com>>
-4. 최근 본 상품
+4. 최근 본 상품 (newitem)
+- newitem.md
+
 5. 회원 가입
 6. 마이 쿠팡
 
