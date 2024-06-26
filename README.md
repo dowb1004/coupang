@@ -19,7 +19,7 @@
 
 <유수현 <sue1195193@gmail.com>>
 10. 고객리뷰
-11. 추천시스템
+11. 추천시스템 - recommend.md 추가
 12. 이벤트
 
 <이나라 <misia120355@gmail.com>>
