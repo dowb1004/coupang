@@ -8,9 +8,13 @@
 3. 카테고리
 
 <이혜진 <hylee97@empal.com>>
-4. 최근 본 상품
-5. 회원 가입
-6. 마이 쿠팡
+4. 최근 본 상품 newitem
+- newitem.md
+
+5. 회원 가입 login
+- login.md
+
+6. 마이 쿠팡 mypage
 
 <전민정 <min94612@gmail.com>>
 7. 주문시스템
