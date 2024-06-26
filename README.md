@@ -5,6 +5,7 @@
 <김성환 <sung.hwan.new@gmail.com>>
 1. 장바구니
 2. 검색
+ 2-1. 검색 개발
 3. 카테고리
 
 <이혜진 <hylee97@empal.com>>
